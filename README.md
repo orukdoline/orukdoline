@@ -15,31 +15,31 @@
 
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="120" height="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />
       <sub><b>Java</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" /><br />
       <sub><b>Spring</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://suu-develop-blog.vercel.app/tech-stack/typescript.svg" width="48" height="48" alt="TypeScript" /><br />
       <sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://suu-develop-blog.vercel.app/tech-stack/react.svg" width="48" height="48" alt="React" /><br />
       <sub><b>React</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://suu-develop-blog.vercel.app/tech-stack/mysql.svg" width="48" height="48" alt="MySQL" /><br />
       <sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://suu-develop-blog.vercel.app/tech-stack/mybatis-icon.png" width="48" height="48" alt="MyBatis" /><br />
       <sub><b>MyBatis</b></sub>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <img src="https://suu-develop-blog.vercel.app/tech-stack/jpa.svg" width="48" height="48" alt="JPA" /><br />
       <sub><b>JPA</b></sub>
     </td>
@@ -52,18 +52,21 @@
 
 ## Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://movementcompany.co.kr">
+    <td width="100%" align="" valign="top">
         <img src="https://suu-develop-blog.vercel.app/projects/movement-company.png" alt="움직임컴퍼니 홈페이지 화면" width="100%" />
-      </a>
-      <br/>
-      <h4>움직임컴퍼니 홈페이지 재구축</h4>
-      <p>비즈니스 도메인에 맞춰 서비스를 구조화한 홈페이지 재구축 프로젝트</p>
-      <a href="https://movementcompany.co.kr">바로가기 →</a>
     </td>
-    
+  </tr>
+  <tr>
+    <td width="100%" align="" valign="top">
+      <h3>움직임컴퍼니 홈페이지 재구축</h3>
+      <p>웹빌더로 운영해오던 홈페이지를 움직임전문가, 출강세미나, 자격과정, 컨디셔닝팀 등 사업 분야에 맞춰 새로 구축한 프로젝트</p>
+      <hr/>
+      <div align="right">
+        <a href="https://movementcompany.co.kr">바로가기</a>
+      </div>
+    </td>
   </tr>
 </table>
 
