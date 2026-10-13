@@ -50,7 +50,7 @@
 
 <br/>
 
-## Projects
+## Main Projects
 
 <table width="100%">
   <tr>
@@ -61,7 +61,7 @@
   <tr>
     <td width="100%" align="" valign="top">
       <h3>움직임컴퍼니 홈페이지 재구축</h3>
-      <p>웹빌더로 운영해오던 홈페이지를 움직임전문가, 출강세미나, 자격과정, 컨디셔닝팀 등 사업 분야에 맞춰 새로 구축한 프로젝트</p>
+      <p>웹빌더로 운영해오던 홈페이지를 움직임전문가, 출강세미나, 자격과정, 컨디셔닝팀 등 움직임컴퍼니 사업 분야에 맞춰 새로 구축한 프로젝트</p>
       <hr/>
       <div align="right">
         <a href="https://movementcompany.co.kr">바로가기</a>
@@ -69,10 +69,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## Contact
-
-<p>Email : skynets@kakao.com<p/>
-<p>LinkedIn : https://www.linkedin.com/in/orukdoline<p/>
