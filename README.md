@@ -1,16 +1,75 @@
-## Hi there 👋
+## About
 
-<!--
-**orukdoline/orukdoline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 안녕하세요! 웹개발자 진수우입니다.
 
-Here are some ideas to get you started:
+평소 주변 사람들과 정보를 나누는 것에 흥미를 느꼈던 저는
+하나의 서비스를 완성하기 위해 동료들과 지식과 경험을 공유하고
+그렇게 만들어진 서비스를 통해 다양한 사람들이 정보를 나누는 웹 개발의 공유 문화에 매력을 느꼈습니다.<br/>
+앞으로 많은 웹 개발에 참여함으로써 웹 개발의 공유 문화를 발전시켜나가는 개발자가 되고 싶습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Main Tech Stack
+
+<div align="">
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" /><br />
+      <sub><b>Spring</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://suu-develop-blog.vercel.app/tech-stack/typescript.svg" width="48" height="48" alt="TypeScript" /><br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://suu-develop-blog.vercel.app/tech-stack/react.svg" width="48" height="48" alt="React" /><br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://suu-develop-blog.vercel.app/tech-stack/mysql.svg" width="48" height="48" alt="MySQL" /><br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://suu-develop-blog.vercel.app/tech-stack/mybatis-icon.png" width="48" height="48" alt="MyBatis" /><br />
+      <sub><b>MyBatis</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://suu-develop-blog.vercel.app/tech-stack/jpa.svg" width="48" height="48" alt="JPA" /><br />
+      <sub><b>JPA</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://movementcompany.co.kr">
+        <img src="https://suu-develop-blog.vercel.app/projects/movement-company.png" alt="움직임컴퍼니 홈페이지 화면" width="100%" />
+      </a>
+      <br/>
+      <h4>움직임컴퍼니 홈페이지 재구축</h4>
+      <p>비즈니스 도메인에 맞춰 서비스를 구조화한 홈페이지 재구축 프로젝트</p>
+      <a href="https://movementcompany.co.kr">바로가기 →</a>
+    </td>
+    
+  </tr>
+</table>
+
+<br/>
+
+## Contact
+
+<p>Email : skynets@kakao.com<p/>
+<p>LinkedIn : https://www.linkedin.com/in/orukdoline<p/>
